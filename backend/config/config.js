@@ -1,8 +1,8 @@
 const {
-  DB_USER = "default",
-  DB_PASSWORD = "CanJYW4Lp7mg",
-  DB_NAME = "verceldb",
-  DB_HOST = "ep-misty-fog-a1afq1tg-pooler.ap-southeast-1.aws.neon.tech",
+  DB_USER = "",
+  DB_PASSWORD = "",
+  DB_NAME = "",
+  DB_HOST = "127.0.0.1",
   DB_PORT = "5432",
 } = process.env;
 
